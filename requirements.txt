@@ -1,0 +1,2 @@
+matplotlib==3.10.0
+prettytable==3.12.0
